@@ -17,9 +17,10 @@ class Util:
         #games += [item for item in csv.DictReader(open(file_2018))]
 
         for game in games:
-            game['season'], game['neutral'], game['playoff'] = int(game['season']), int(game['neutral']), int(game['playoff'])
-            game['score1'], game['score2'] = int(game['score1']) if game['score1'] != '' else None, int(game['score2']) if game['score2'] != '' else None
-            game['elo_prob1'], game['result1'] = float(game['elo_prob1']) if game['elo_prob1'] != '' else None, float(game['result1']) if game['result1'] != '' else None
+            game['season'], game['game'], game['match'] = int(game['season']), int(game['game']), int(game['match'])
+            #game['score1'], game['score2'] = int(game['score1']) if game['score1'] != '' else None, int(game['score2']) if game['score2'] != '' else None
+            #game['elo_prob1'], = float(game['elo_prob1']) if game['elo_prob1'] != '' else None, 
+            game['result1'] = float(game['result1']) if game['result1'] != '' else None
 
         return games
 
