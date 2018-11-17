@@ -1,9 +1,7 @@
 import csv
 import math
 
-HFA = 0.0     # Home field advantage is worth 0 Elo points
-K = 50.0       # The speed at which Elo ratings change
-REVERT = 1/8.0 # Between seasons, a team retains 2/3 of its previous season's rating
+
 
 #REVERSIONS = {'CBD1925': 1502.032, 'RAC1926': 1403.384, 'LOU1926': 1307.201, 'CIB1927': 1362.919, 'MNN1929': 1306.702, # Some between-season reversions of unknown origin
               #'BFF1929': 1331.943, 'LAR1944': 1373.977, 'PHI1944': 1497.988, 'ARI1945': 1353.939, 'PIT1945': 1353.939, 'CLE1999': 1300.0}
@@ -11,9 +9,11 @@ REVERT = 1/8.0 # Between seasons, a team retains 2/3 of its previous season's ra
 class Forecast:
 
     @staticmethod
-    def forecast(games):
+    def forecast(games, K, REVERT, scale):
         """ Generates win probabilities in the my_prob1 field for each game based on Elo model """
-
+        HFA = 0.0     # Home field advantage is worth 0 Elo points
+        K = K       # The speed at which Elo ratings change
+        REVERT = REVERT # Between seasons, a team retains 1-REVERT of its previous season's rating
         # Initialize team objects to maintain ratings
         teams = {}
         for row in [item for item in csv.DictReader(open("data/initial_Eve_elos.csv"))]:
@@ -33,7 +33,7 @@ class Forecast:
                     #if k in REVERSIONS:
                         #team['elo'] = REVERSIONS[k]
                     #else:
-                    team['elo'] = 1300.0*REVERT + team['elo']*(1-REVERT)
+                    team['elo'] = 1500.0*REVERT + team['elo']*(1-REVERT)
                 team['season'] = game['season']
 
             # Elo difference includes home field advantage
@@ -41,7 +41,7 @@ class Forecast:
 
             # This is the most important piece, where we set my_prob1 to our forecasted probability
             #if game['elo_prob1'] != None:
-            game['my_prob1'] = 1.0 / (math.pow(10.0, (-elo_diff/400.0)) + 1.0)
+            game['my_prob1'] = 1.0 / (math.pow(10.0, (-elo_diff/scale)) + 1.0)
 
             # If game wasn't played, maintain team Elo ratings
             #if game['score1'] != None:
@@ -56,4 +56,4 @@ class Forecast:
             # Apply shift
             team1['elo'] += shift
             team2['elo'] -= shift
-        return teams
+        return teams, games

@@ -48,8 +48,8 @@ class Util:
             elo_brier = (rounded_elo_prob - game['result1']) * (rounded_elo_prob - game['result1'])
             elo_points = 25 - (100 * elo_brier)
             elo_points = round(elo_points + 0.001 if elo_points < 0 else elo_points, 1) # Round half up
-            if game['playoff'] == 1:
-                elo_points *= 2
+            #if game['playoff'] == 1:
+            #    elo_points *= 2
             elo_points_by_season[game['season']] += elo_points
 
             # Calculate my points for game
@@ -57,8 +57,8 @@ class Util:
             my_brier = (rounded_my_prob - game['result1']) * (rounded_my_prob - game['result1'])
             my_points = 25 - (100 * my_brier)
             my_points = round(my_points + 0.001 if my_points < 0 else my_points, 1) # Round half up
-            if game['playoff'] == 1:
-                my_points *= 2
+            #if game['playoff'] == 1:
+            #    my_points *= 2
             my_points_by_season[game['season']] += my_points
 
         # Print individual seasons
@@ -76,3 +76,4 @@ class Util:
             for game in upcoming_games:
                 print("%s\t%s vs. %s\t\t%s%% (Elo)\t\t%s%% (You)" % (game['date'], game['team1'], game['team2'], int(round(100*game['elo_prob1'])), int(round(100*game['my_prob1']))))
             print("")
+        return my_avg, elo_avg
