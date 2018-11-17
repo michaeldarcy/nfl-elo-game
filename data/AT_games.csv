@@ -1,0 +1,794 @@
+season,game,match,team1,team2,winner,result1
+11,0,0,Circle-Of-Two,SCUM.,Circle-Of-Two,1
+11,1,0,Of Sound Mind,YOUR VOTES DON'T COUNT,YOUR VOTES DON'T COUNT,0
+11,2,0,Curatores Veritatis Alliance,R.E.V.O.L.U.T.I.O.N,Curatores Veritatis Alliance,1
+11,3,0,THE R0NIN,CAStabouts,THE R0NIN,1
+11,4,0,Goonswarm Federation,Sleeper Social Club,Sleeper Social Club,0
+11,5,0,Verge of Collapse,Outbreak.,Verge of Collapse,1
+11,6,0,Wormhole Holders,Rote Kapelle,Rote Kapelle,0
+11,7,0,Perihelion Alliance,The Fourth District,The Fourth District,0
+11,8,0,D3vil's Childr3n,Late Night Alliance,Late Night Alliance,0
+11,9,0,Clockwork Pineapple,Rainbow Dash Friends,Clockwork Pineapple,1
+11,10,0,RAZOR Alliance,Babylon 5..,RAZOR Alliance,1
+11,11,0,Sicarius Draconis,Test Alliance Please Ignore,Test Alliance Please Ignore,0
+11,12,0,Moist.,Transmission Lost,Transmission Lost,0
+11,13,0,Surely You're Joking,Nulli Secunda,Nulli Secunda,0
+11,14,0,Exiled Ones,Choke Point,Exiled Ones,1
+11,15,0,JIHADASQUAD,Exodus.,Exodus.,0
+11,16,0,Noir. Mercenary Group,Shadow Cartel,Shadow Cartel,0
+11,17,0,HUN Reloaded,DarkSide.,DarkSide.,0
+11,18,0,Darkness of Despair,Quebec United Legions,Darkness of Despair,1
+11,19,0,M.I.F,Angeli Mortis,M.I.F,1
+11,20,0,Kill It With Fire,Ministry of Inappropriate Footwork,Ministry of Inappropriate Footwork,0
+11,21,0,The G0dfathers,Urine Alliance,The G0dfathers,1
+11,22,0,SOLAR FLEET,HYDRA RELOADED,HYDRA RELOADED,0
+11,23,0,End of Life,Darkspawn.,End of Life,1
+11,24,0,Heretic Initiative,No Holes Barred,No Holes Barred,0
+11,25,0,WHY so Seri0Us,Red vs Blue,Red vs Blue,0
+11,26,0,W-Space,Mildly Sober,W-Space,1
+11,27,0,The Obsidian Front,The Initiative.,The Initiative.,0
+11,28,0,Confederation of xXPIZZAXx,Dead Terrorists,Confederation of xXPIZZAXx,1
+11,29,0,Sadistica Alliance,Agony Empire,Agony Empire,0
+11,30,0,Pandemic Legion,Synthetic Systems,Pandemic Legion,1
+11,31,0,The Kadeshi,Drunk 'n' Disorderly,Drunk 'n' Disorderly,0
+11,32,0,Circle-Of-Two,YOUR VOTES DON'T COUNT,YOUR VOTES DON'T COUNT,0
+11,33,0,Curatores Veritatis Alliance,THE R0NIN,THE R0NIN,0
+11,34,0,Sleeper Social Club,Verge of Collapse,Verge of Collapse,0
+11,35,0,Rote Kapelle,The Fourth District,Rote Kapelle,1
+11,36,0,Late Night Alliance,Clockwork Pineapple,Late Night Alliance,1
+11,37,0,RAZOR Alliance,Test Alliance Please Ignore,Test Alliance Please Ignore,0
+11,38,0,Transmission Lost,Nulli Secunda,Transmission Lost,1
+11,39,0,Exiled Ones,Exodus.,Exodus.,0
+11,40,0,Shadow Cartel,DarkSide.,DarkSide.,0
+11,41,0,Darkness of Despair,M.I.F,Darkness of Despair,1
+11,42,0,Ministry of Inappropriate Footwork,The G0dfathers,Ministry of Inappropriate Footwork,1
+11,43,0,HYDRA RELOADED,End of Life,HYDRA RELOADED,1
+11,44,0,No Holes Barred,Red vs Blue,Red vs Blue,0
+11,45,0,W-Space,The Initiative.,The Initiative.,0
+11,46,0,Confederation of xXPIZZAXx,Agony Empire,Agony Empire,0
+11,47,0,Pandemic Legion,Drunk 'n' Disorderly,Pandemic Legion,1
+11,48,0,SCUM.,Of Sound Mind,SCUM.,1
+11,49,0,R.E.V.O.L.U.T.I.O.N,CAStabouts,R.E.V.O.L.U.T.I.O.N,1
+11,50,0,Goonswarm Federation,Outbreak.,Outbreak.,0
+11,51,0,Wormhole Holders,Perihelion Alliance,Perihelion Alliance,0
+11,52,0,D3vil's Childr3n,Rainbow Dash Friends,Rainbow Dash Friends,0
+11,53,0,Babylon 5..,Sicarius Draconis,Sicarius Draconis,0
+11,54,0,Moist.,Surely You're Joking,Surely You're Joking,0
+11,55,0,Choke Point,JIHADASQUAD,Choke Point,1
+11,56,0,Noir. Mercenary Group,HUN Reloaded,HUN Reloaded,0
+11,57,0,Quebec United Legions,Angeli Mortis,Angeli Mortis,0
+11,58,0,Kill It With Fire,Urine Alliance,Urine Alliance,0
+11,59,0,SOLAR FLEET,Darkspawn.,SOLAR FLEET,1
+11,60,0,Heretic Initiative,WHY so Seri0Us,Heretic Initiative,1
+11,61,0,Mildly Sober,The Obsidian Front,The Obsidian Front,0
+11,62,0,Dead Terrorists,Sadistica Alliance,Sadistica Alliance,0
+11,63,0,Synthetic Systems,The Kadeshi,The Kadeshi,0
+11,64,0,SCUM.,Sleeper Social Club,SCUM.,1
+11,65,0,R.E.V.O.L.U.T.I.O.N,The Fourth District,R.E.V.O.L.U.T.I.O.N,1
+11,66,0,Outbreak.,Circle-Of-Two,Circle-Of-Two,0
+11,67,0,Perihelion Alliance,Curatores Veritatis Alliance,Curatores Veritatis Alliance,0
+11,68,0,Rainbow Dash Friends,Nulli Secunda,Nulli Secunda,0
+11,69,0,Sicarius Draconis,Exiled Ones,Exiled Ones,0
+11,70,0,Surely You're Joking,Clockwork Pineapple,Clockwork Pineapple,0
+11,71,0,Choke Point,RAZOR Alliance,Choke Point,1
+11,72,0,HUN Reloaded,The G0dfathers,HUN Reloaded,1
+11,73,0,Angeli Mortis,End of Life,End of Life,0
+11,74,0,Urine Alliance,Shadow Cartel,Shadow Cartel,0
+11,75,0,SOLAR FLEET,M.I.F,M.I.F,0
+11,76,0,Heretic Initiative,Confederation of xXPIZZAXx,Confederation of xXPIZZAXx,0
+11,77,0,The Obsidian Front,Drunk 'n' Disorderly,The Obsidian Front,1
+11,78,0,Sadistica Alliance,No Holes Barred,Sadistica Alliance,1
+11,79,0,The Kadeshi,W-Space,The Kadeshi,1
+11,80,0,YOUR VOTES DON'T COUNT,THE R0NIN,THE R0NIN,0
+11,81,0,Verge of Collapse,Rote Kapelle,Rote Kapelle,0
+11,82,0,Late Night Alliance,Test Alliance Please Ignore,Late Night Alliance,1
+11,83,0,Transmission Lost,Exodus.,Exodus.,0
+11,84,0,DarkSide.,Darkness of Despair,DarkSide.,1
+11,85,0,Ministry of Inappropriate Footwork,HYDRA RELOADED,HYDRA RELOADED,0
+11,86,0,Red vs Blue,The Initiative.,The Initiative.,0
+11,87,0,Agony Empire,Pandemic Legion,Pandemic Legion,0
+11,88,0,SCUM.,R.E.V.O.L.U.T.I.O.N,SCUM.,1
+11,89,0,Circle-Of-Two,Curatores Veritatis Alliance,Curatores Veritatis Alliance,0
+11,90,0,Nulli Secunda,Exiled Ones,Nulli Secunda,1
+11,91,0,Clockwork Pineapple,Choke Point,Clockwork Pineapple,1
+11,92,0,HUN Reloaded,End of Life,HUN Reloaded,1
+11,93,0,Shadow Cartel,M.I.F,M.I.F,0
+11,94,0,Confederation of xXPIZZAXx,The Obsidian Front,The Obsidian Front,0
+11,95,0,Sadistica Alliance,The Kadeshi,Sadistica Alliance,1
+11,96,0,SCUM.,Test Alliance Please Ignore,SCUM.,1
+11,97,0,Curatores Veritatis Alliance,Transmission Lost,Curatores Veritatis Alliance,1
+11,98,0,Nulli Secunda,YOUR VOTES DON'T COUNT,YOUR VOTES DON'T COUNT,0
+11,99,0,Clockwork Pineapple,Verge of Collapse,Verge of Collapse,0
+11,100,0,HUN Reloaded,Red vs Blue,HUN Reloaded,1
+11,101,0,M.I.F,Agony Empire,Agony Empire,0
+11,102,0,The Obsidian Front,Darkness of Despair,Darkness of Despair,0
+11,103,0,Sadistica Alliance,Ministry of Inappropriate Footwork,Ministry of Inappropriate Footwork,0
+11,104,0,THE R0NIN,Rote Kapelle,THE R0NIN,1
+11,105,0,Late Night Alliance,Exodus.,Exodus.,0
+11,106,0,DarkSide.,HYDRA RELOADED,HYDRA RELOADED,0
+11,107,0,The Initiative.,Pandemic Legion,Pandemic Legion,0
+11,108,0,SCUM.,Curatores Veritatis Alliance,Curatores Veritatis Alliance,0
+11,109,0,YOUR VOTES DON'T COUNT,Verge of Collapse,Verge of Collapse,0
+11,110,0,HUN Reloaded,Agony Empire,Agony Empire,0
+11,111,0,Darkness of Despair,Ministry of Inappropriate Footwork,Ministry of Inappropriate Footwork,0
+11,112,0,Curatores Veritatis Alliance,DarkSide.,DarkSide.,0
+11,113,0,Verge of Collapse,The Initiative.,Verge of Collapse,1
+11,114,0,Agony Empire,Rote Kapelle,Agony Empire,1
+11,115,0,Ministry of Inappropriate Footwork,Late Night Alliance,Ministry of Inappropriate Footwork,1
+11,116,0,THE R0NIN,Exodus.,Exodus.,0
+11,116,1,THE R0NIN,Exodus.,THE R0NIN,1
+11,116,2,THE R0NIN,Exodus.,Exodus.,0
+11,117,0,HYDRA RELOADED,Pandemic Legion,HYDRA RELOADED,1
+11,117,1,HYDRA RELOADED,Pandemic Legion,Pandemic Legion,0
+11,117,2,HYDRA RELOADED,Pandemic Legion,HYDRA RELOADED,1
+11,118,0,DarkSide.,Verge of Collapse,DarkSide.,1
+11,119,0,Agony Empire,Ministry of Inappropriate Footwork,Agony Empire,1
+11,120,0,DarkSide.,THE R0NIN,THE R0NIN,0
+11,121,0,Agony Empire,Pandemic Legion,Pandemic Legion,0
+11,122,0,Exodus.,HYDRA RELOADED,HYDRA RELOADED,0
+11,122,1,Exodus.,HYDRA RELOADED,HYDRA RELOADED,0
+11,123,0,THE R0NIN,Pandemic Legion,Pandemic Legion,0
+11,123,1,THE R0NIN,Pandemic Legion,Pandemic Legion,0
+11,124,0,Pandemic Legion,Exodus.,Pandemic Legion,1
+11,124,1,Pandemic Legion,Exodus.,Exodus.,0
+11,124,2,Pandemic Legion,Exodus.,Pandemic Legion,1
+11,125,0,HYDRA RELOADED,Pandemic Legion,HYDRA RELOADED,1
+11,125,1,HYDRA RELOADED,Pandemic Legion,Pandemic Legion,0
+11,125,2,HYDRA RELOADED,Pandemic Legion,Pandemic Legion,0
+11,125,3,HYDRA RELOADED,Pandemic Legion,Pandemic Legion,0
+12,0,0,Clockwork Pineapple,RAZOR Alliance,Clockwork Pineapple,1
+12,1,0,Ineluctable.,Exodus.,Exodus.,0
+12,2,0,Affirmative.,Pasta Syndicate,Pasta Syndicate,0
+12,3,0,Choke Point,Quebec United Legions,Quebec United Legions,0
+12,4,0,The Tuskers Co.,Cynosural Field Theory.,The Tuskers Co.,1
+12,5,0,CAStabouts,The Initiative.,The Initiative.,0
+12,6,0,The Unthinkables,Feign Disorder,Feign Disorder,0
+12,7,0,SOLAR FLEET,The Devil's Warrior Alliance,SOLAR FLEET,1
+12,8,0,THE R0NIN,Dead Terrorists,THE R0NIN,1
+12,9,0,Moist.,Easily Excited,Easily Excited,0
+12,10,0,Ushra'Khan,Test Alliance Please Ignore,Test Alliance Please Ignore,0
+12,11,0,Tactical Narcotics Team,A Nest of Vipers,Tactical Narcotics Team,1
+12,12,0,LowSechnaya Sholupen,The Camel Empire,The Camel Empire,0
+12,13,0,The Kadeshi,The Fourth District,The Fourth District,0
+12,14,0,Disavowed.,M.I.F,M.I.F,0
+12,15,0,HUN Reloaded,Sleeper Social Club,Sleeper Social Club,0
+12,16,0,The Fearless Empire,Rote Kapelle,Rote Kapelle,0
+12,17,0,Noir. Mercenary Group,SCUM.,SCUM.,0
+12,18,0,WAFFLES.,Ministry of Inappropriate Footwork,Ministry of Inappropriate Footwork,0
+12,19,0,Mortuus.,C0VEN,C0VEN,0
+12,20,0,The G0dfathers,Shadow Cartel,Shadow Cartel,0
+12,21,0,The Afterlife.,Pandemic Legion,Pandemic Legion,0
+12,22,0,The Methodical Alliance,End of Life,The Methodical Alliance,1
+12,23,0,The Gorgon Empire,The Nameless Alliance,The Gorgon Empire,1
+12,24,0,Agony Empire,Circle-Of-Two,Agony Empire,1
+12,25,0,Red vs Blue,CODE.,Red vs Blue,1
+12,26,0,Fidelas Constans,Nulli Secunda,Nulli Secunda,0
+12,27,0,Surely You're Joking,Almost Awesome.,Surely You're Joking,1
+12,28,0,Curatores Veritatis Alliance,Red Alliance,Curatores Veritatis Alliance,1
+12,29,0,Outbreak.,Monkeys with Guns.,Outbreak.,1
+12,30,0,HYDRA RELOADED,Triumvirate.,HYDRA RELOADED,1
+12,31,0,No Holes Barred,R.E.V.O.L.U.T.I.O.N,No Holes Barred,1
+12,32,0,Clockwork Pineapple,Exodus.,Exodus.,0
+12,33,0,Pasta Syndicate,Quebec United Legions,Pasta Syndicate,1
+12,34,0,The Tuskers Co.,The Initiative.,The Tuskers Co.,1
+12,35,0,Feign Disorder,SOLAR FLEET,Feign Disorder,1
+12,36,0,THE R0NIN,Easily Excited,THE R0NIN,1
+12,37,0,Test Alliance Please Ignore,Tactical Narcotics Team,Tactical Narcotics Team,0
+12,38,0,The Camel Empire,The Fourth District,The Camel Empire,1
+12,39,0,M.I.F,Sleeper Social Club,M.I.F,1
+12,40,0,Rote Kapelle,SCUM.,Rote Kapelle,1
+12,41,0,Ministry of Inappropriate Footwork,C0VEN,Ministry of Inappropriate Footwork,1
+12,42,0,Shadow Cartel,Pandemic Legion,Pandemic Legion,0
+12,43,0,The Methodical Alliance,The Gorgon Empire,The Gorgon Empire,0
+12,44,0,Agony Empire,Red vs Blue,Red vs Blue,0
+12,45,0,Nulli Secunda,Surely You're Joking,Nulli Secunda,1
+12,46,0,Curatores Veritatis Alliance,Outbreak.,Curatores Veritatis Alliance,1
+12,47,0,HYDRA RELOADED,No Holes Barred,HYDRA RELOADED,1
+12,48,0,RAZOR Alliance,Ineluctable.,RAZOR Alliance,1
+12,49,0,Affirmative.,Choke Point,Choke Point,0
+12,50,0,Cynosural Field Theory.,CAStabouts,CAStabouts,0
+12,51,0,The Unthinkables,The Devil's Warrior Alliance,The Devil's Warrior Alliance,0
+12,52,0,Dead Terrorists,Moist.,Dead Terrorists,1
+12,53,0,Ushra'Khan,A Nest of Vipers,A Nest of Vipers,0
+12,54,0,LowSechnaya Sholupen,The Kadeshi,LowSechnaya Sholupen,1
+12,55,0,Disavowed.,HUN Reloaded,HUN Reloaded,0
+12,56,0,The Fearless Empire,Noir. Mercenary Group,The Fearless Empire,1
+12,57,0,WAFFLES.,Mortuus.,WAFFLES.,1
+12,58,0,The G0dfathers,The Afterlife.,The Afterlife.,0
+12,59,0,End of Life,The Nameless Alliance,End of Life,1
+12,60,0,Circle-Of-Two,CODE.,Circle-Of-Two,1
+12,61,0,Fidelas Constans,Almost Awesome.,Almost Awesome.,0
+12,62,0,Red Alliance,Monkeys with Guns.,Monkeys with Guns.,0
+12,63,0,Triumvirate.,R.E.V.O.L.U.T.I.O.N,Triumvirate.,1
+12,64,0,RAZOR Alliance,The Initiative.,RAZOR Alliance,1
+12,65,0,Choke Point,SOLAR FLEET,SOLAR FLEET,0
+12,66,0,CAStabouts,Clockwork Pineapple,CAStabouts,1
+12,67,0,The Devil's Warrior Alliance,Quebec United Legions,The Devil's Warrior Alliance,1
+12,68,0,Dead Terrorists,The Fourth District,The Fourth District,0
+12,69,0,A Nest of Vipers,Sleeper Social Club,Sleeper Social Club,0
+12,70,0,LowSechnaya Sholupen,Easily Excited,Easily Excited,0
+12,71,0,HUN Reloaded,Test Alliance Please Ignore,Test Alliance Please Ignore,0
+12,72,0,The Fearless Empire,Shadow Cartel,Shadow Cartel,0
+12,73,0,WAFFLES.,The Methodical Alliance,WAFFLES.,1
+12,74,0,The Afterlife.,SCUM.,The Afterlife.,1
+12,75,0,End of Life,C0VEN,C0VEN,0
+12,76,0,Circle-Of-Two,Outbreak.,Outbreak.,0
+12,77,0,Almost Awesome.,No Holes Barred,No Holes Barred,0
+12,78,0,Monkeys with Guns.,Agony Empire,Agony Empire,0
+12,79,0,Triumvirate.,Surely You're Joking,Triumvirate.,1
+12,80,0,Exodus.,Pasta Syndicate,Exodus.,1
+12,81,0,The Tuskers Co.,Feign Disorder,The Tuskers Co.,1
+12,82,0,THE R0NIN,Tactical Narcotics Team,Tactical Narcotics Team,0
+12,83,0,The Camel Empire,M.I.F,The Camel Empire,1
+12,84,0,Rote Kapelle,Ministry of Inappropriate Footwork,Rote Kapelle,1
+12,85,0,Pandemic Legion,The Gorgon Empire,Pandemic Legion,1
+12,86,0,Red vs Blue,Nulli Secunda,Nulli Secunda,0
+12,87,0,Curatores Veritatis Alliance,HYDRA RELOADED,HYDRA RELOADED,0
+12,88,0,RAZOR Alliance,SOLAR FLEET,RAZOR Alliance,1
+12,89,0,CAStabouts,The Devil's Warrior Alliance,The Devil's Warrior Alliance,0
+12,90,0,The Fourth District,Sleeper Social Club,The Fourth District,1
+12,91,0,Easily Excited,Test Alliance Please Ignore,Test Alliance Please Ignore,0
+12,92,0,Shadow Cartel,WAFFLES.,Shadow Cartel,1
+12,93,0,The Afterlife.,C0VEN,The Afterlife.,1
+12,94,0,Outbreak.,No Holes Barred,Outbreak.,1
+12,95,0,Agony Empire,Triumvirate.,Triumvirate.,0
+12,96,0,RAZOR Alliance,THE R0NIN,THE R0NIN,0
+12,97,0,The Devil's Warrior Alliance,M.I.F,M.I.F,0
+12,98,0,The Fourth District,Pasta Syndicate,Pasta Syndicate,0
+12,99,0,Test Alliance Please Ignore,Feign Disorder,Test Alliance Please Ignore,1
+12,100,0,Shadow Cartel,Red vs Blue,Shadow Cartel,1
+12,101,0,The Afterlife.,Curatores Veritatis Alliance,The Afterlife.,1
+12,102,0,Outbreak.,Ministry of Inappropriate Footwork,Outbreak.,1
+12,103,0,Triumvirate.,The Gorgon Empire,Triumvirate.,1
+12,104,0,Exodus.,The Tuskers Co.,The Tuskers Co.,0
+12,105,0,Tactical Narcotics Team,The Camel Empire,The Camel Empire,0
+12,106,0,Rote Kapelle,Pandemic Legion,Pandemic Legion,0
+12,107,0,Nulli Secunda,HYDRA RELOADED,Nulli Secunda,1
+12,108,0,THE R0NIN,M.I.F,THE R0NIN,1
+12,109,0,Pasta Syndicate,Test Alliance Please Ignore,Test Alliance Please Ignore,0
+12,110,0,Shadow Cartel,The Afterlife.,The Afterlife.,0
+12,111,0,Outbreak.,Triumvirate.,Triumvirate.,0
+12,112,0,THE R0NIN,Rote Kapelle,THE R0NIN,1
+12,113,0,Test Alliance Please Ignore,HYDRA RELOADED,HYDRA RELOADED,0
+12,114,0,The Afterlife.,Exodus.,The Afterlife.,1
+12,115,0,Triumvirate.,Tactical Narcotics Team,Triumvirate.,1
+12,116,0,The Tuskers Co.,The Camel Empire,The Camel Empire,0
+12,116,1,The Tuskers Co.,The Camel Empire,The Tuskers Co.,1
+12,116,2,The Tuskers Co.,The Camel Empire,The Camel Empire,0
+12,117,0,Pandemic Legion,Nulli Secunda,Pandemic Legion,1
+12,117,1,Pandemic Legion,Nulli Secunda,Pandemic Legion,1
+12,118,0,THE R0NIN,HYDRA RELOADED,THE R0NIN,1
+12,119,0,The Afterlife.,Triumvirate.,The Afterlife.,1
+12,120,0,THE R0NIN,The Tuskers Co.,The Tuskers Co.,0
+12,121,0,The Afterlife.,Nulli Secunda,Nulli Secunda,0
+12,122,0,The Camel Empire,Pandemic Legion,The Camel Empire,1
+12,122,1,The Camel Empire,Pandemic Legion,The Camel Empire,1
+12,123,0,The Tuskers Co.,Nulli Secunda,Nulli Secunda,0
+12,123,1,The Tuskers Co.,Nulli Secunda,Nulli Secunda,0
+12,124,0,Nulli Secunda,Pandemic Legion,Nulli Secunda,1
+12,124,1,Nulli Secunda,Pandemic Legion,Nulli Secunda,1
+12,125,0,The Camel Empire,Nulli Secunda,The Camel Empire,1
+12,125,1,The Camel Empire,Nulli Secunda,The Camel Empire,1
+13,0,0,The Camel Empire,SpaceMonkey's Alliance,The Camel Empire,1
+13,1,0,Agony Empire,-affliction-,Agony Empire,1
+13,2,0,CAStabouts,Chaos Collective,CAStabouts,1
+13,3,0,Scary Wormhole People,The Gorgon Empire and Spawn,The Gorgon Empire and Spawn,0
+13,4,0,Exodus.,Suddenly Spaceships.,Exodus.,1
+13,5,0,Out of Sight.,Alternate Allegiance,Out of Sight.,1
+13,6,0,Rote Kapelle,Affirmative.,Rote Kapelle,1
+13,7,0,Dead Terrorists,The Bastards.,Dead Terrorists,1
+13,8,0,The Tuskers Co.,Quebec United Legions,The Tuskers Co.,1
+13,9,0,Curatores Veritatis Alliance,Project.Mayhem.,Curatores Veritatis Alliance,1
+13,10,0,Black Legion.,Warlords of the Deep,Warlords of the Deep,0
+13,11,0,The Methodical Alliance,Verge of Collapse,The Methodical Alliance,1
+13,12,0,The Afterlife.,End of Life,The Afterlife.,1
+13,13,0,Together We Solo,Gone Critical,Together We Solo,1
+13,14,0,M.I.F,Nerfed Alliance Go Away,M.I.F,1
+13,15,0,Triumvirate.,Dream Fleet,Triumvirate.,1
+13,16,0,Nulli Secunda,That Escalated Quickly.,Nulli Secunda,1
+13,17,0,Ministry of Inappropriate Footwork,The WeHurt Initiative,Ministry of Inappropriate Footwork,1
+13,18,0,Clockwork Pineapple,Phoebe Freeport Republic,Phoebe Freeport Republic,0
+13,19,0,Brave Collective,Easily Excited,Brave Collective,1
+13,20,0,Test Alliance Please Ignore,Drop the Hammer,Test Alliance Please Ignore,1
+13,21,0,Vox Populi.,404 Alliance Not Found,Vox Populi.,1
+13,22,0,Tactical Narcotics Team,WAFFLES.,Tactical Narcotics Team,1
+13,23,0,Circle-Of-Two,Brothers in Arms Alliance,Circle-Of-Two,1
+13,24,0,Pandemic Legion,The Kadeshi,Pandemic Legion,1
+13,25,0,Nihilists Social Club,RAZOR Alliance,Nihilists Social Club,1
+13,26,0,The G0dfathers,A Band Apart.,The G0dfathers,1
+13,27,0,Hard Knocks Citizens,The Explicit Alliance,Hard Knocks Citizens,1
+13,28,0,THE R0NIN,It Must Be Jelly Cause Jam Don't Shake,THE R0NIN,1
+13,29,0,Forsaken Federation,R.E.V.O.L.U.T.I.O.N,R.E.V.O.L.U.T.I.O.N,0
+13,30,0,Shadow Cartel,Pandemic Horde,Shadow Cartel,1
+13,31,0,Northern Coalition.,Confederation of xXPIZZAXx,Northern Coalition.,1
+13,32,0,The Camel Empire,Agony Empire,The Camel Empire,1
+13,33,0,CAStabouts,The Gorgon Empire and Spawn,The Gorgon Empire and Spawn,0
+13,34,0,Exodus.,Out of Sight.,Exodus.,1
+13,35,0,Rote Kapelle,Dead Terrorists,Dead Terrorists,0
+13,36,0,The Tuskers Co.,Curatores Veritatis Alliance,The Tuskers Co.,1
+13,37,0,Warlords of the Deep,The Methodical Alliance,Warlords of the Deep,1
+13,38,0,The Afterlife.,Together We Solo,The Afterlife.,1
+13,39,0,M.I.F,Triumvirate.,Triumvirate.,0
+13,40,0,Nulli Secunda,Ministry of Inappropriate Footwork,Nulli Secunda,1
+13,41,0,Phoebe Freeport Republic,Brave Collective,Phoebe Freeport Republic,1
+13,42,0,Test Alliance Please Ignore,Vox Populi.,Vox Populi.,0
+13,43,0,Tactical Narcotics Team,Circle-Of-Two,Tactical Narcotics Team,1
+13,44,0,Pandemic Legion,Nihilists Social Club,Pandemic Legion,1
+13,45,0,The G0dfathers,Hard Knocks Citizens,The G0dfathers,1
+13,46,0,THE R0NIN,R.E.V.O.L.U.T.I.O.N,THE R0NIN,1
+13,47,0,Shadow Cartel,Northern Coalition.,Shadow Cartel,1
+13,48,0,SpaceMonkey's Alliance,-affliction-,SpaceMonkey's Alliance,1
+13,49,0,Chaos Collective,Scary Wormhole People,Scary Wormhole People,0
+13,50,0,Suddenly Spaceships.,Alternate Allegiance,Suddenly Spaceships.,1
+13,51,0,Affirmative.,The Bastards.,The Bastards.,0
+13,52,0,Quebec United Legions,Project.Mayhem.,Project.Mayhem.,0
+13,53,0,Black Legion.,Verge of Collapse,Verge of Collapse,0
+13,54,0,End of Life,Gone Critical,End of Life,1
+13,55,0,Nerfed Alliance Go Away,Dream Fleet,Dream Fleet,0
+13,56,0,That Escalated Quickly.,The WeHurt Initiative,The WeHurt Initiative,0
+13,57,0,Clockwork Pineapple,Easily Excited,Easily Excited,0
+13,58,0,Drop the Hammer,404 Alliance Not Found,Drop the Hammer,1
+13,59,0,WAFFLES.,Brothers in Arms Alliance,Brothers in Arms Alliance,0
+13,60,0,The Kadeshi,RAZOR Alliance,RAZOR Alliance,0
+13,61,0,A Band Apart.,The Explicit Alliance,The Explicit Alliance,0
+13,62,0,It Must Be Jelly Cause Jam Don't Shake,Forsaken Federation,It Must Be Jelly Cause Jam Don't Shake,1
+13,63,0,Pandemic Horde,Confederation of xXPIZZAXx,Confederation of xXPIZZAXx,0
+13,64,0,SpaceMonkey's Alliance,Out of Sight.,Out of Sight.,0
+13,65,0,Scary Wormhole People,Rote Kapelle,Rote Kapelle,0
+13,66,0,Suddenly Spaceships.,Agony Empire,Agony Empire,0
+13,67,0,The Bastards.,CAStabouts,The Bastards.,1
+13,68,0,Project.Mayhem.,Together We Solo,Project.Mayhem.,1
+13,69,0,Verge of Collapse,M.I.F,M.I.F,0
+13,70,0,End of Life,Curatores Veritatis Alliance,End of Life,1
+13,71,0,Dream Fleet,The Methodical Alliance,Dream Fleet,1
+13,72,0,The WeHurt Initiative,Test Alliance Please Ignore,Test Alliance Please Ignore,0
+13,73,0,Easily Excited,Circle-Of-Two,Easily Excited,1
+13,74,0,Drop the Hammer,Ministry of Inappropriate Footwork,Ministry of Inappropriate Footwork,0
+13,75,0,Brothers in Arms Alliance,Brave Collective,Brave Collective,0
+13,76,0,RAZOR Alliance,R.E.V.O.L.U.T.I.O.N,R.E.V.O.L.U.T.I.O.N,0
+13,77,0,The Explicit Alliance,Northern Coalition.,Northern Coalition.,0
+13,78,0,It Must Be Jelly Cause Jam Don't Shake,Nihilists Social Club,Nihilists Social Club,0
+13,79,0,Confederation of xXPIZZAXx,Hard Knocks Citizens,Hard Knocks Citizens,0
+13,80,0,The Camel Empire,The Gorgon Empire and Spawn,The Camel Empire,1
+13,81,0,Exodus.,Dead Terrorists,Exodus.,1
+13,82,0,The Tuskers Co.,Warlords of the Deep,Warlords of the Deep,0
+13,83,0,The Afterlife.,Triumvirate.,Triumvirate.,0
+13,84,0,Nulli Secunda,Phoebe Freeport Republic,Nulli Secunda,1
+13,85,0,Vox Populi.,Tactical Narcotics Team,Tactical Narcotics Team,0
+13,86,0,Pandemic Legion,The G0dfathers,Pandemic Legion,1
+13,87,0,THE R0NIN,Shadow Cartel,Shadow Cartel,0
+13,88,0,Out of Sight.,Rote Kapelle,Out of Sight.,1
+13,89,0,Agony Empire,The Bastards.,Agony Empire,1
+13,90,0,Project.Mayhem.,M.I.F,Project.Mayhem.,1
+13,91,0,End of Life,Dream Fleet,End of Life,1
+13,92,0,Test Alliance Please Ignore,Easily Excited,Test Alliance Please Ignore,1
+13,93,0,Ministry of Inappropriate Footwork,Brave Collective,Ministry of Inappropriate Footwork,1
+13,94,0,R.E.V.O.L.U.T.I.O.N,Northern Coalition.,R.E.V.O.L.U.T.I.O.N,1
+13,95,0,Nihilists Social Club,Hard Knocks Citizens,Hard Knocks Citizens,0
+13,96,0,Out of Sight.,The Tuskers Co.,The Tuskers Co.,0
+13,97,0,Agony Empire,The Afterlife.,The Afterlife.,0
+13,98,0,Project.Mayhem.,The Gorgon Empire and Spawn,The Gorgon Empire and Spawn,0
+13,99,0,End of Life,Dead Terrorists,End of Life,1
+13,100,0,Test Alliance Please Ignore,The G0dfathers,Test Alliance Please Ignore,1
+13,101,0,Ministry of Inappropriate Footwork,THE R0NIN,THE R0NIN,0
+13,102,0,R.E.V.O.L.U.T.I.O.N,Phoebe Freeport Republic,Phoebe Freeport Republic,0
+13,103,0,Hard Knocks Citizens,Vox Populi.,Hard Knocks Citizens,1
+13,104,0,The Camel Empire,Exodus.,The Camel Empire,1
+13,105,0,Warlords of the Deep,Triumvirate.,Warlords of the Deep,1
+13,106,0,Nulli Secunda,Tactical Narcotics Team,Nulli Secunda,1
+13,107,0,Pandemic Legion,Shadow Cartel,Pandemic Legion,1
+13,108,0,The Tuskers Co.,The Afterlife.,The Tuskers Co.,1
+13,109,0,The Gorgon Empire and Spawn,End of Life,The Gorgon Empire and Spawn,1
+13,110,0,Test Alliance Please Ignore,THE R0NIN,THE R0NIN,0
+13,111,0,Phoebe Freeport Republic,Hard Knocks Citizens,Hard Knocks Citizens,0
+13,112,0,The Tuskers Co.,Tactical Narcotics Team,The Tuskers Co.,1
+13,113,0,The Gorgon Empire and Spawn,Shadow Cartel,Shadow Cartel,0
+13,114,0,THE R0NIN,Exodus.,Exodus.,0
+13,115,0,Hard Knocks Citizens,Triumvirate.,Hard Knocks Citizens,1
+13,116,0,The Camel Empire,Warlords of the Deep,The Camel Empire,1
+13,116,1,The Camel Empire,Warlords of the Deep,The Camel Empire,1
+13,117,0,Nulli Secunda,Pandemic Legion,Pandemic Legion,0
+13,117,1,Nulli Secunda,Pandemic Legion,Pandemic Legion,0
+13,118,0,The Tuskers Co.,Shadow Cartel,The Tuskers Co.,1
+13,119,0,Exodus.,Hard Knocks Citizens,Exodus.,1
+13,120,0,The Tuskers Co.,Warlords of the Deep,Warlords of the Deep,0
+13,121,0,Exodus.,Nulli Secunda,Exodus.,1
+13,122,0,The Camel Empire,Pandemic Legion,Pandemic Legion,0
+13,122,1,The Camel Empire,Pandemic Legion,The Camel Empire,1
+13,122,2,The Camel Empire,Pandemic Legion,The Camel Empire,1
+13,123,0,Warlords of the Deep,Exodus.,Warlords of the Deep,1
+13,123,1,Warlords of the Deep,Exodus.,Warlords of the Deep,1
+13,124,0,Warlords of the Deep,Pandemic Legion,Warlords of the Deep,1
+13,124,1,Warlords of the Deep,Pandemic Legion,Warlords of the Deep,1
+13,125,0,The Camel Empire,Warlords of the Deep,Warlords of the Deep,0
+13,125,1,The Camel Empire,Warlords of the Deep,Warlords of the Deep,0
+13,125,2,The Camel Empire,Warlords of the Deep,The Camel Empire,1
+13,125,3,The Camel Empire,Warlords of the Deep,Warlords of the Deep,0
+14,0,0,Pandemic Legion,Iron Armada,Pandemic Legion,1
+14,1,0,Complaints Department,Cede Nullis,Complaints Department,1
+14,2,0,The Explicit Alliance,Badfellas Inc.,The Explicit Alliance,1
+14,3,0,Fraternity.,Spectre Fleet Alliance,Spectre Fleet Alliance,0
+14,4,0,Tactical Narcotics Team,League of Unaligned Master Pilots,League of Unaligned Master Pilots,0
+14,5,0,Rabble Alliance,NANOBLACK,Rabble Alliance,1
+14,6,0,Test Alliance Please Ignore,Scary Wormhole People,Test Alliance Please Ignore,1
+14,7,0,Northern Coalition.,White Legion.,Northern Coalition.,1
+14,8,0,Hard Knocks Citizens,Official Winners Of Takeshi's Castle,Hard Knocks Citizens,1
+14,9,0,The Methodical Alliance,Out of Sight.,Out of Sight.,0
+14,10,0,Affirmative.,WE FORM V0LTA,WE FORM V0LTA,0
+14,11,0,Feign Disorder,Requiem Eternal,Feign Disorder,1
+14,12,0,Shadow Cartel,A Band Apart.,A Band Apart.,0
+14,13,0,Villore Accords,SOLAR FLEET,Villore Accords,1
+14,14,0,Phoebe Freeport Republic,404 Alliance Not Found,404 Alliance Not Found,0
+14,15,0,Quebec United Legions,Snuffed Out,Snuffed Out,0
+14,16,0,Exodus.,Ministry of Inappropriate Footwork,Exodus.,1
+14,17,0,VYDRA RELOLDED,Polarbears.,VYDRA RELOLDED,1
+14,18,0,Brotherhood of Spacers,The-Culture,The-Culture,0
+14,19,0,Curatores Veritatis Alliance,LowSechnaya Sholupen,Curatores Veritatis Alliance,1
+14,20,0,Triumvirate.,Galaxy Spiritus,Galaxy Spiritus,0
+14,21,0,Spaceship Samurai,Brave Collective,Brave Collective,0
+14,22,0,The Afterlife.,Psychotic Tendencies,The Afterlife.,1
+14,23,0,Circle-Of-Two,COF Alliance,Circle-Of-Two,1
+14,24,0,The Tuskers Co.,WAFFLES.,The Tuskers Co.,1
+14,25,0,Dream Fleet,Rote Kapelle,Rote Kapelle,0
+14,26,0,CAStabouts,Mercenary Coalition,Mercenary Coalition,0
+14,27,0,Paisti Syndicate,Brothers in Arms Alliance,Paisti Syndicate,1
+14,28,0,THE R0NIN,Red vs Blue,THE R0NIN,1
+14,29,0,SAMURAI SOUL'd OUT,FREE GATES COALITION,FREE GATES COALITION,0
+14,30,0,End of Life,Agony Empire,Agony Empire,0
+14,31,0,IT'S ONLY PIXELS,Templis CALSF,IT'S ONLY PIXELS,1
+14,32,0,Pandemic Legion,Complaints Department,Pandemic Legion,1
+14,33,0,The Explicit Alliance,Spectre Fleet Alliance,Spectre Fleet Alliance,0
+14,34,0,League of Unaligned Master Pilots,Rabble Alliance,League of Unaligned Master Pilots,1
+14,35,0,Test Alliance Please Ignore,Northern Coalition.,Northern Coalition.,0
+14,36,0,Hard Knocks Citizens,Out of Sight.,Hard Knocks Citizens,1
+14,37,0,WE FORM V0LTA,Feign Disorder,WE FORM V0LTA,1
+14,38,0,A Band Apart.,Villore Accords,Villore Accords,0
+14,39,0,404 Alliance Not Found,Snuffed Out,404 Alliance Not Found,1
+14,40,0,Exodus.,VYDRA RELOLDED,Exodus.,1
+14,41,0,The-Culture,Curatores Veritatis Alliance,The-Culture,1
+14,42,0,Galaxy Spiritus,Brave Collective,Brave Collective,0
+14,43,0,The Afterlife.,Circle-Of-Two,The Afterlife.,1
+14,44,0,The Tuskers Co.,Rote Kapelle,The Tuskers Co.,1
+14,45,0,Mercenary Coalition,Paisti Syndicate,Mercenary Coalition,1
+14,46,0,THE R0NIN,FREE GATES COALITION,THE R0NIN,1
+14,47,0,Agony Empire,IT'S ONLY PIXELS,Agony Empire,1
+14,48,0,Iron Armada,Cede Nullis,Iron Armada,1
+14,49,0,Badfellas Inc.,Fraternity.,Fraternity.,0
+14,50,0,Tactical Narcotics Team,NANOBLACK,Tactical Narcotics Team,1
+14,51,0,Scary Wormhole People,White Legion.,White Legion.,0
+14,52,0,Official Winners Of Takeshi's Castle,The Methodical Alliance,The Methodical Alliance,0
+14,53,0,Affirmative.,Requiem Eternal,Requiem Eternal,0
+14,54,0,Shadow Cartel,SOLAR FLEET,SOLAR FLEET,0
+14,55,0,Phoebe Freeport Republic,Quebec United Legions,Phoebe Freeport Republic,1
+14,56,0,Ministry of Inappropriate Footwork,Polarbears.,Ministry of Inappropriate Footwork,1
+14,57,0,Brotherhood of Spacers,LowSechnaya Sholupen,LowSechnaya Sholupen,0
+14,58,0,Triumvirate.,Spaceship Samurai,Triumvirate.,1
+14,59,0,Psychotic Tendencies,COF Alliance,COF Alliance,0
+14,60,0,WAFFLES.,Dream Fleet,Dream Fleet,0
+14,61,0,CAStabouts,Brothers in Arms Alliance,CAStabouts,1
+14,62,0,Red vs Blue,SAMURAI SOUL'd OUT,Red vs Blue,1
+14,63,0,End of Life,Templis CALSF,Templis CALSF,0
+14,64,0,Iron Armada,Rabble Alliance,Iron Armada,1
+14,65,0,Fraternity.,Test Alliance Please Ignore,Fraternity.,1
+14,66,0,Tactical Narcotics Team,Complaints Department,Complaints Department,0
+14,67,0,White Legion.,The Explicit Alliance,White Legion.,1
+14,68,0,The Methodical Alliance,A Band Apart.,A Band Apart.,0
+14,69,0,Requiem Eternal,Snuffed Out,Snuffed Out,0
+14,70,0,SOLAR FLEET,Out of Sight.,SOLAR FLEET,1
+14,71,0,Phoebe Freeport Republic,Feign Disorder,Phoebe Freeport Republic,1
+14,72,0,Ministry of Inappropriate Footwork,Galaxy Spiritus,Ministry of Inappropriate Footwork,1
+14,73,0,LowSechnaya Sholupen,Circle-Of-Two,Circle-Of-Two,0
+14,74,0,Triumvirate.,VYDRA RELOLDED,VYDRA RELOLDED,0
+14,75,0,COF Alliance,Curatores Veritatis Alliance,Curatores Veritatis Alliance,0
+14,76,0,Dream Fleet,FREE GATES COALITION,Dream Fleet,1
+14,77,0,CAStabouts,IT'S ONLY PIXELS,CAStabouts,1
+14,78,0,Red vs Blue,Rote Kapelle,Rote Kapelle,0
+14,79,0,Templis CALSF,Paisti Syndicate,Paisti Syndicate,0
+14,80,0,Pandemic Legion,Spectre Fleet Alliance,Pandemic Legion,1
+14,81,0,League of Unaligned Master Pilots,Northern Coalition.,Northern Coalition.,0
+14,82,0,Hard Knocks Citizens,WE FORM V0LTA,WE FORM V0LTA,0
+14,83,0,Villore Accords,404 Alliance Not Found,Villore Accords,1
+14,84,0,Exodus.,The-Culture,Exodus.,1
+14,85,0,Brave Collective,The Afterlife.,The Afterlife.,0
+14,86,0,The Tuskers Co.,Mercenary Coalition,The Tuskers Co.,1
+14,87,0,THE R0NIN,Agony Empire,THE R0NIN,1
+14,88,0,Iron Armada,Fraternity.,Fraternity.,0
+14,89,0,Complaints Department,White Legion.,Complaints Department,1
+14,90,0,A Band Apart.,Snuffed Out,A Band Apart.,1
+14,91,0,SOLAR FLEET,Phoebe Freeport Republic,Phoebe Freeport Republic,0
+14,92,0,Ministry of Inappropriate Footwork,Circle-Of-Two,Ministry of Inappropriate Footwork,1
+14,93,0,VYDRA RELOLDED,Curatores Veritatis Alliance,VYDRA RELOLDED,1
+14,94,0,Dream Fleet,CAStabouts,Dream Fleet,1
+14,95,0,Rote Kapelle,Paisti Syndicate,Paisti Syndicate,0
+14,96,0,Fraternity.,Hard Knocks Citizens,Fraternity.,1
+14,97,0,Complaints Department,404 Alliance Not Found,404 Alliance Not Found,0
+14,98,0,A Band Apart.,Spectre Fleet Alliance,A Band Apart.,1
+14,99,0,Phoebe Freeport Republic,League of Unaligned Master Pilots,Phoebe Freeport Republic,1
+14,100,0,Ministry of Inappropriate Footwork,Mercenary Coalition,Mercenary Coalition,0
+14,101,0,VYDRA RELOLDED,Agony Empire,VYDRA RELOLDED,1
+14,102,0,Dream Fleet,The-Culture,Dream Fleet,1
+14,103,0,Paisti Syndicate,Brave Collective,Paisti Syndicate,1
+14,104,0,Pandemic Legion,Northern Coalition.,Pandemic Legion,1
+14,105,0,WE FORM V0LTA,Villore Accords,WE FORM V0LTA,1
+14,106,0,Exodus.,The Afterlife.,The Afterlife.,0
+14,107,0,The Tuskers Co.,THE R0NIN,The Tuskers Co.,1
+14,108,0,Fraternity.,404 Alliance Not Found,404 Alliance Not Found,0
+14,109,0,A Band Apart.,Phoebe Freeport Republic,Phoebe Freeport Republic,0
+14,110,0,Mercenary Coalition,VYDRA RELOLDED,VYDRA RELOLDED,0
+14,111,0,Dream Fleet,Paisti Syndicate,Paisti Syndicate,0
+14,112,0,404 Alliance Not Found,Exodus.,Exodus.,0
+14,113,0,Phoebe Freeport Republic,THE R0NIN,Phoebe Freeport Republic,1
+14,114,0,VYDRA RELOLDED,Northern Coalition.,Northern Coalition.,0
+14,115,0,Paisti Syndicate,Villore Accords,Paisti Syndicate,1
+14,116,0,Pandemic Legion,WE FORM V0LTA,Pandemic Legion,1
+14,116,1,Pandemic Legion,WE FORM V0LTA,Pandemic Legion,1
+14,117,0,The Afterlife.,The Tuskers Co.,The Afterlife.,1
+14,117,1,The Afterlife.,The Tuskers Co.,The Tuskers Co.,0
+14,117,2,The Afterlife.,The Tuskers Co.,The Tuskers Co.,0
+14,118,0,Exodus.,Phoebe Freeport Republic,Exodus.,1
+14,119,0,Northern Coalition.,Paisti Syndicate,Northern Coalition.,1
+14,120,0,Exodus.,WE FORM V0LTA,WE FORM V0LTA,0
+14,121,0,Northern Coalition.,The Afterlife.,Northern Coalition.,1
+14,122,0,Pandemic Legion,The Tuskers Co.,The Tuskers Co.,0
+14,122,1,Pandemic Legion,The Tuskers Co.,Pandemic Legion,1
+14,122,2,Pandemic Legion,The Tuskers Co.,Pandemic Legion,1
+14,123,0,WE FORM V0LTA,Northern Coalition.,WE FORM V0LTA,1
+14,123,1,WE FORM V0LTA,Northern Coalition.,WE FORM V0LTA,1
+14,124,0,WE FORM V0LTA,The Tuskers Co.,WE FORM V0LTA,1
+14,124,1,WE FORM V0LTA,The Tuskers Co.,The Tuskers Co.,0
+14,124,2,WE FORM V0LTA,The Tuskers Co.,The Tuskers Co.,0
+14,125,0,Pandemic Legion,The Tuskers Co.,The Tuskers Co.,0
+14,125,1,Pandemic Legion,The Tuskers Co.,Pandemic Legion,1
+14,125,2,Pandemic Legion,The Tuskers Co.,The Tuskers Co.,0
+14,125,3,Pandemic Legion,The Tuskers Co.,The Tuskers Co.,0
+15,0,0,The Tuskers Co.,Red Alliance,The Tuskers Co.,1
+15,1,0,WAFFLES.,End of Life,End of Life,0
+15,2,0,Brave Collective,Goonswarm Federation,Brave Collective,1
+15,3,0,Spectre Fleet Alliance,Blades of Grass,Spectre Fleet Alliance,1
+15,4,0,VYDRA RELOLDED,Band of Backstabbers,VYDRA RELOLDED,1
+15,5,0,Out of Sight.,It Must Be Jelly Cause Jam Don't Shake,Out of Sight.,1
+15,6,0,THE R0NIN,skill urself,THE R0NIN,1
+15,7,0,Test Alliance Please Ignore,The Bastion,Test Alliance Please Ignore,1
+15,8,0,Northern Coalition.,RAZOR Alliance,Northern Coalition.,1
+15,9,0,Shadow Cartel,Of Sound Mind,Shadow Cartel,1
+15,10,0,Dream Fleet,Project.Mayhem.,Project.Mayhem.,0
+15,11,0,Snuffed Out,Hole Control,Snuffed Out,1
+15,12,0,Exodus.,We want your ISK,Exodus.,1
+15,13,0,Requiem Eternal,Thermodynamics,Thermodynamics,0
+15,14,0,Fraternity.,Asteria Concord.,Fraternity.,1
+15,15,0,Rote Kapelle,Rejection Of Sovereignty,Rote Kapelle,1
+15,16,0,Pandemic Legion,Good at this Game,Pandemic Legion,1
+15,17,0,SAMURAI SOUL'd OUT,The Clown Car,The Clown Car,0
+15,18,0,Mercenary Coalition,The Bastard Cartel,Mercenary Coalition,1
+15,19,0,The-Culture,The Initiative.,The Initiative.,0
+15,20,0,Phoebe Freeport Republic,Ghost Legion.,Ghost Legion.,0
+15,21,0,IT'S ONLY PIXELS,Pen Is Out,Pen Is Out,0
+15,22,0,Villore Accords,United Federation of Conifers,United Federation of Conifers,0
+15,23,0,SOLAR FLEET,Salt Farmers,Salt Farmers,0
+15,24,0,WE FORM V0LTA,PURPLE HELMETED WARRIORS,WE FORM V0LTA,1
+15,25,0,Quebec United Legions,R.E.V.O.L.U.T.I.O.N,Quebec United Legions,1
+15,26,0,A Band Apart.,Solyaris Chtonium,A Band Apart.,1
+15,27,0,Hard Knocks Citizens,Fidelas Constans,Hard Knocks Citizens,1
+15,28,0,Paisti Syndicate,L A Z E R H A W K S,L A Z E R H A W K S,0
+15,29,0,Templis CALSF,HYDRA RELOADED,Templis CALSF,1
+15,30,0,404 Alliance Not Found,No Handlebars.,No Handlebars.,0
+15,31,0,CAStabouts,Bright Side of Death,Bright Side of Death,0
+15,32,0,The Tuskers Co.,End of Life,The Tuskers Co.,1
+15,33,0,Brave Collective,Spectre Fleet Alliance,Brave Collective,1
+15,34,0,VYDRA RELOLDED,Out of Sight.,VYDRA RELOLDED,1
+15,35,0,THE R0NIN,Test Alliance Please Ignore,Test Alliance Please Ignore,0
+15,36,0,Northern Coalition.,Shadow Cartel,Northern Coalition.,1
+15,37,0,Project.Mayhem.,Snuffed Out,Snuffed Out,0
+15,38,0,Exodus.,Thermodynamics,Exodus.,1
+15,39,0,Fraternity.,Rote Kapelle,Rote Kapelle,0
+15,40,0,Pandemic Legion,The Clown Car,Pandemic Legion,1
+15,41,0,Mercenary Coalition,The Initiative.,The Initiative.,0
+15,42,0,Ghost Legion.,Pen Is Out,Pen Is Out,0
+15,43,0,United Federation of Conifers,Salt Farmers,Salt Farmers,0
+15,44,0,WE FORM V0LTA,Quebec United Legions,WE FORM V0LTA,1
+15,45,0,A Band Apart.,Hard Knocks Citizens,A Band Apart.,1
+15,46,0,L A Z E R H A W K S,Templis CALSF,L A Z E R H A W K S,1
+15,47,0,No Handlebars.,Bright Side of Death,Bright Side of Death,0
+15,48,0,Red Alliance,WAFFLES.,WAFFLES.,0
+15,49,0,Goonswarm Federation,Blades of Grass,Goonswarm Federation,1
+15,50,0,Band of Backstabbers,It Must Be Jelly Cause Jam Don't Shake,It Must Be Jelly Cause Jam Don't Shake,0
+15,51,0,skill urself,The Bastion,skill urself,1
+15,52,0,RAZOR Alliance,Of Sound Mind,Of Sound Mind,0
+15,53,0,Dream Fleet,Hole Control,Hole Control,0
+15,54,0,We want your ISK,Requiem Eternal,We want your ISK,1
+15,55,0,Asteria Concord.,Rejection Of Sovereignty,Asteria Concord.,1
+15,56,0,Good at this Game,SAMURAI SOUL'd OUT,SAMURAI SOUL'd OUT,0
+15,57,0,The Bastard Cartel,The-Culture,The Bastard Cartel,1
+15,58,0,Phoebe Freeport Republic,IT'S ONLY PIXELS,Phoebe Freeport Republic,1
+15,59,0,Villore Accords,SOLAR FLEET,SOLAR FLEET,0
+15,60,0,PURPLE HELMETED WARRIORS,R.E.V.O.L.U.T.I.O.N,PURPLE HELMETED WARRIORS,1
+15,61,0,Solyaris Chtonium,Fidelas Constans,Solyaris Chtonium,1
+15,62,0,Paisti Syndicate,HYDRA RELOADED,HYDRA RELOADED,0
+15,63,0,404 Alliance Not Found,CAStabouts,CAStabouts,0
+15,64,0,WAFFLES.,Out of Sight.,WAFFLES.,1
+15,65,0,Goonswarm Federation,THE R0NIN,THE R0NIN,0
+15,66,0,It Must Be Jelly Cause Jam Don't Shake,End of Life,End of Life,0
+15,67,0,skill urself,Spectre Fleet Alliance,skill urself,1
+15,68,0,Of Sound Mind,Thermodynamics,Thermodynamics,0
+15,69,0,Hole Control,Fraternity.,Fraternity.,0
+15,70,0,We want your ISK,Shadow Cartel,Shadow Cartel,0
+15,71,0,Asteria Concord.,Project.Mayhem.,Project.Mayhem.,0
+15,72,0,SAMURAI SOUL'd OUT,Ghost Legion.,Ghost Legion.,0
+15,73,0,The Bastard Cartel,United Federation of Conifers,The Bastard Cartel,1
+15,74,0,Phoebe Freeport Republic,The Clown Car,Phoebe Freeport Republic,1
+15,75,0,SOLAR FLEET,Mercenary Coalition,Mercenary Coalition,0
+15,76,0,PURPLE HELMETED WARRIORS,Templis CALSF,Templis CALSF,0
+15,77,0,Solyaris Chtonium,No Handlebars.,Solyaris Chtonium,1
+15,78,0,HYDRA RELOADED,Quebec United Legions,HYDRA RELOADED,1
+15,79,0,CAStabouts,Hard Knocks Citizens,Hard Knocks Citizens,0
+15,80,0,The Tuskers Co.,Brave Collective,The Tuskers Co.,1
+15,81,0,VYDRA RELOLDED,Test Alliance Please Ignore,VYDRA RELOLDED,1
+15,82,0,Northern Coalition.,Snuffed Out,Northern Coalition.,1
+15,83,0,Exodus.,Rote Kapelle,Exodus.,1
+15,84,0,Pandemic Legion,The Initiative.,The Initiative.,0
+15,85,0,Pen Is Out,Salt Farmers,Pen Is Out,1
+15,86,0,WE FORM V0LTA,A Band Apart.,A Band Apart.,0
+15,87,0,L A Z E R H A W K S,Bright Side of Death,L A Z E R H A W K S,1
+15,88,0,WAFFLES.,THE R0NIN,THE R0NIN,0
+15,89,0,End of Life,skill urself,skill urself,0
+15,90,0,Thermodynamics,Fraternity.,Thermodynamics,1
+15,91,0,Shadow Cartel,Project.Mayhem.,Shadow Cartel,1
+15,92,0,Ghost Legion.,The Bastard Cartel,The Bastard Cartel,0
+15,93,0,Phoebe Freeport Republic,Mercenary Coalition,Mercenary Coalition,0
+15,94,0,Templis CALSF,Solyaris Chtonium,Solyaris Chtonium,0
+15,95,0,HYDRA RELOADED,Hard Knocks Citizens,HYDRA RELOADED,1
+15,96,0,THE R0NIN,Snuffed Out,THE R0NIN,1
+15,97,0,skill urself,Rote Kapelle,skill urself,1
+15,98,0,Thermodynamics,Brave Collective,Brave Collective,0
+15,99,0,Shadow Cartel,Test Alliance Please Ignore,Test Alliance Please Ignore,0
+15,100,0,The Bastard Cartel,WE FORM V0LTA,WE FORM V0LTA,0
+15,101,0,Mercenary Coalition,Bright Side of Death,Bright Side of Death,0
+15,102,0,Solyaris Chtonium,Pandemic Legion,Pandemic Legion,0
+15,103,0,HYDRA RELOADED,Salt Farmers,HYDRA RELOADED,1
+15,104,0,The Tuskers Co.,VYDRA RELOLDED,VYDRA RELOLDED,0
+15,105,0,Northern Coalition.,Exodus.,Northern Coalition.,1
+15,106,0,The Initiative.,Pen Is Out,Pen Is Out,0
+15,107,0,A Band Apart.,L A Z E R H A W K S,L A Z E R H A W K S,0
+15,108,0,THE R0NIN,skill urself,skill urself,0
+15,109,0,Brave Collective,Test Alliance Please Ignore,Brave Collective,1
+15,110,0,WE FORM V0LTA,Bright Side of Death,WE FORM V0LTA,1
+15,111,0,Pandemic Legion,HYDRA RELOADED,HYDRA RELOADED,0
+15,112,0,skill urself,The Initiative.,skill urself,1
+15,113,0,Brave Collective,A Band Apart.,Brave Collective,1
+15,114,0,WE FORM V0LTA,The Tuskers Co.,The Tuskers Co.,0
+15,115,0,HYDRA RELOADED,Exodus.,HYDRA RELOADED,1
+15,116,0,VYDRA RELOLDED,Northern Coalition.,VYDRA RELOLDED,1
+15,116,1,VYDRA RELOLDED,Northern Coalition.,Northern Coalition.,0
+15,116,2,VYDRA RELOLDED,Northern Coalition.,VYDRA RELOLDED,1
+15,117,0,Pen Is Out,L A Z E R H A W K S,L A Z E R H A W K S,0
+15,117,1,Pen Is Out,L A Z E R H A W K S,L A Z E R H A W K S,0
+15,118,0,skill urself,Brave Collective,skill urself,1
+15,119,0,The Tuskers Co.,HYDRA RELOADED,HYDRA RELOADED,0
+15,120,0,skill urself,Northern Coalition.,Northern Coalition.,0
+15,121,0,HYDRA RELOADED,Pen Is Out,HYDRA RELOADED,1
+15,122,0,VYDRA RELOLDED,L A Z E R H A W K S,VYDRA RELOLDED,1
+15,122,1,VYDRA RELOLDED,L A Z E R H A W K S,VYDRA RELOLDED,1
+15,123,0,Northern Coalition.,HYDRA RELOADED,HYDRA RELOADED,0
+15,123,1,Northern Coalition.,HYDRA RELOADED,HYDRA RELOADED,0
+15,124,0,HYDRA RELOADED,L A Z E R H A W K S,HYDRA RELOADED,1
+15,124,1,HYDRA RELOADED,L A Z E R H A W K S,HYDRA RELOADED,1
+15,125,0,VYDRA RELOLDED,HYDRA RELOADED,VYDRA RELOLDED,1
+15,125,1,VYDRA RELOLDED,HYDRA RELOADED,HYDRA RELOADED,0
+15,125,2,VYDRA RELOLDED,HYDRA RELOADED,HYDRA RELOADED,0
+15,125,3,VYDRA RELOLDED,HYDRA RELOADED,VYDRA RELOLDED,1
+16,1,0,Villore Accords,Requiem Eternal,Villore Accords,1
+16,4,0,Brave Collective,ChaosTheory.,Brave Collective,1
+16,5,0,SAMURAI SOUL'd OUT,lllllllllllllllll,SAMURAI SOUL'd OUT,1
+16,6,0,WE FORM V0LTA,SE7EN-SINS,WE FORM V0LTA,1
+16,7,0,Of Sound Mind,Phage and Terror,Of Sound Mind,1
+16,9,0,We want your ISK,Darwinism.,We want your ISK,1
+16,11,0,Templis CALSF,No Vacancies.,Templis CALSF,1
+16,13,0,Goonswarm Federation,League of Unaligned Master Pilots,Goonswarm Federation,1
+16,14,0,The Initiative.,Immediate Destruction,The Initiative.,1
+16,15,0,End of Life,BLUE Republic,BLUE Republic,0
+16,18,0,Test Alliance Please Ignore,Triumvirate.,Triumvirate.,0
+16,19,0,Snuffed Out,Shattered Foundations,Snuffed Out,1
+16,21,0,PURPLE HELMETED WARRIORS,Odin's Call,PURPLE HELMETED WARRIORS,1
+16,22,0,Exodus.,Curatores Veritatis Alliance,Exodus.,1
+16,23,0,No Handlebars.,MOIST.,No Handlebars.,1
+16,26,0,Bright Side of Death,The Weekend Warriors,Bright Side of Death,1
+16,27,0,Salt Farmers,Unspoken Alliance.,Salt Farmers,1
+16,28,0,Pen Is Out,LowSechnaya Sholupen,Pen Is Out,1
+16,29,0,CAStabouts,Wormhole Poverty Law Foundation,CAStabouts,1
+16,30,0,A Band Apart.,Centipede Caliphate.,A Band Apart.,1
+16,31,0,Fraternity.,GaNg BaNg TeAm,Fraternity.,1
+16,32,0,VYDRA RELOLDED,Villore Accords,VYDRA RELOLDED,1
+16,33,0,Black Legion...,Solyaris Chtonium,Black Legion...,1
+16,34,0,Brave Collective,SAMURAI SOUL'd OUT,SAMURAI SOUL'd OUT,0
+16,35,0,WE FORM V0LTA,Of Sound Mind,WE FORM V0LTA,1
+16,36,0,Northern Coalition.,We want your ISK,Northern Coalition.,1
+16,37,0,Pandemic Legion,Templis CALSF,Pandemic Legion,1
+16,38,0,skill urself,Goonswarm Federation,skill urself,1
+16,39,0,The Initiative.,BLUE Republic,The Initiative.,1
+16,40,0,HYDRA RELOADED,The Bastion,HYDRA RELOADED,1
+16,41,0,Triumvirate.,Snuffed Out,Triumvirate.,1
+16,42,0,The Tuskers Co.,PURPLE HELMETED WARRIORS,The Tuskers Co.,1
+16,43,0,Exodus.,No Handlebars.,Exodus.,1
+16,44,0,L A Z E R H A W K S,United Federation of Conifers,L A Z E R H A W K S,1
+16,45,0,Bright Side of Death,Salt Farmers,Bright Side of Death,1
+16,46,0,Pen Is Out,CAStabouts,CAStabouts,0
+16,47,0,A Band Apart.,Fraternity.,A Band Apart.,1
+16,50,0,ChaosTheory.,lllllllllllllllll,lllllllllllllllll,0
+16,51,0,SE7EN-SINS,Phage and Terror,SE7EN-SINS,1
+16,55,0,Immediate Destruction,End of Life,Immediate Destruction,1
+16,57,0,Test Alliance Please Ignore,Shattered Foundations,Test Alliance Please Ignore,1
+16,59,0,Curatores Veritatis Alliance,MOIST.,Curatores Veritatis Alliance,1
+16,61,0,The Weekend Warriors,Unspoken Alliance.,The Weekend Warriors,1
+16,62,0,LowSechnaya Sholupen,Wormhole Poverty Law Foundation,LowSechnaya Sholupen,1
+16,63,0,Centipede Caliphate.,GaNg BaNg TeAm,Centipede Caliphate.,1
+16,64,0,Requiem Eternal,Fraternity.,Fraternity.,0
+16,65,0,Holesale Operations,Pen Is Out,Pen Is Out,0
+16,66,0,lllllllllllllllll,Salt Farmers,lllllllllllllllll,1
+16,67,0,SE7EN-SINS,United Federation of Conifers,SE7EN-SINS,1
+16,68,0,Darwinism.,No Handlebars.,No Handlebars.,0
+16,69,0,No Vacancies.,PURPLE HELMETED WARRIORS,PURPLE HELMETED WARRIORS,0
+16,70,0,League of Unaligned Master Pilots,Snuffed Out,Snuffed Out,0
+16,71,0,Immediate Destruction,The Bastion,Immediate Destruction,1
+16,72,0,Quebec United Legion,BLUE Republic,BLUE Republic,0
+16,73,0,Test Alliance Please Ignore,Goonswarm Federation,Test Alliance Please Ignore,1
+16,74,0,Odin's Call,Templis CALSF,Templis CALSF,0
+16,75,0,Curatores Veritatis Alliance,We want your ISK,Curatores Veritatis Alliance,1
+16,77,0,The Weekend Warriors,Brave Collective,Brave Collective,0
+16,78,0,LowSechnaya Sholupen,Solyaris Chtonium,Solyaris Chtonium,0
+16,79,0,Centipede Caliphate.,Villore Accords,Centipede Caliphate.,1
+16,80,0,VYDRA RELOLDED,Black Legion...,VYDRA RELOLDED,1
+16,81,0,SAMURAI SOUL'd OUT,WE FORM V0LTA,SAMURAI SOUL'd OUT,1
+16,82,0,Northern Coalition.,Pandemic Legion,Northern Coalition.,1
+16,83,0,skill urself,The Initiative.,skill urself,1
+16,84,0,HYDRA RELOADED,Triumvirate.,HYDRA RELOADED,1
+16,85,0,The Tuskers Co.,Exodus.,The Tuskers Co.,1
+16,86,0,L A Z E R H A W K S,Bright Side of Death,Bright Side of Death,0
+16,87,0,CAStabouts,A Band Apart.,CAStabouts,1
+16,88,0,Fraternity.,Pen Is Out,Fraternity.,1
+16,89,0,lllllllllllllllll,SE7EN-SINS,lllllllllllllllll,1
+16,90,0,No Handlebars.,PURPLE HELMETED WARRIORS,No Handlebars.,1
+16,91,0,Snuffed Out,Immediate Destruction,Immediate Destruction,0
+16,92,0,BLUE Republic,Test Alliance Please Ignore,Test Alliance Please Ignore,0
+16,93,0,Templis CALSF,Curatores Veritatis Alliance,Templis CALSF,1
+16,94,0,Of Sound Mind,Brave Collective,Of Sound Mind,1
+16,95,0,Solyaris Chtonium,Centipede Caliphate.,Centipede Caliphate.,0
+16,96,0,Fraternity.,The Initiative.,Fraternity.,1
+16,97,0,lllllllllllllllll,Pandemic Legion,lllllllllllllllll,1
+16,98,0,No Handlebars.,WE FORM V0LTA,WE FORM V0LTA,0
+16,99,0,Immediate Destruction,Black Legion...,Immediate Destruction,1
+16,100,0,Test Alliance Please Ignore,A Band Apart.,Test Alliance Please Ignore,1
+16,101,0,Templis CALSF,L A Z E R H A W K S,Templis CALSF,1
+16,102,0,Of Sound Mind,Exodus.,Of Sound Mind,1
+16,103,0,Centipede Caliphate.,Triumvirate.,Triumvirate.,0
+16,104,0,VYDRA RELOLDED,SAMURAI SOUL'd OUT,VYDRA RELOLDED,1
+16,105,0,Northern Coalition.,skill urself,Northern Coalition.,1
+16,106,0,HYDRA RELOADED,The Tuskers Co.,HYDRA RELOADED,1
+16,107,0,Bright Side of Death,CAStabouts,Bright Side of Death,1
+16,108,0,Fraternity.,lllllllllllllllll,lllllllllllllllll,0
+16,109,0,WE FORM V0LTA,Immediate Destruction,WE FORM V0LTA,1
+16,110,0,Test Alliance Please Ignore,Templis CALSF,Templis CALSF,0
+16,111,0,Of Sound Mind,Triumvirate.,Triumvirate.,0
+16,112,0,lllllllllllllllll,The Tuskers Co.,The Tuskers Co.,0
+16,113,0,WE FORM V0LTA,CAStabouts,WE FORM V0LTA,1
+16,114,0,Templis CALSF,SAMURAI SOUL'd OUT,Templis CALSF,1
+16,115,0,Triumvirate.,skill urself,Triumvirate.,1
+16,116,0,VYDRA RELOLDED,Northern Coalition.,VYDRA RELOLDED,1
+16,116,1,VYDRA RELOLDED,Northern Coalition.,VYDRA RELOLDED,1
+16,117,0,HYDRA RELOADED,Bright Side of Death,HYDRA RELOADED,1
+16,117,1,HYDRA RELOADED,Bright Side of Death,HYDRA RELOADED,1
+16,118,0,The Tuskers Co.,WE FORM V0LTA,The Tuskers Co.,1
+16,119,0,Templis CALSF,Triumvirate.,Triumvirate.,0
+16,120,0,The Tuskers Co.,Northern Coalition.,Northern Coalition.,0
+16,121,0,Triumvirate.,Bright Side of Death,Triumvirate.,1
+16,122,0,VYDRA RELOLDED,HYDRA RELOADED,VYDRA RELOLDED,1
+16,122,1,VYDRA RELOLDED,HYDRA RELOADED,HYDRA RELOADED,0
+16,122,2,VYDRA RELOLDED,HYDRA RELOADED,HYDRA RELOADED,0
+16,123,0,Northern Coalition.,Triumvirate.,Triumvirate.,0
+16,123,1,Northern Coalition.,Triumvirate.,Triumvirate.,0
+16,124,0,Triumvirate.,VYDRA RELOLDED,VYDRA RELOLDED,0
+16,124,1,Triumvirate.,VYDRA RELOLDED,Triumvirate.,1
+16,124,2,Triumvirate.,VYDRA RELOLDED,VYDRA RELOLDED,0
+16,125,0,HYDRA RELOADED,VYDRA RELOLDED,VYDRA RELOLDED,0
+16,125,1,HYDRA RELOADED,VYDRA RELOLDED,VYDRA RELOLDED,0
+16,125,2,HYDRA RELOADED,VYDRA RELOLDED,HYDRA RELOADED,1
+16,125,3,HYDRA RELOADED,VYDRA RELOLDED,VYDRA RELOLDED,0
