@@ -2,6 +2,8 @@
 I used FiveThirtyEight's elo rating code to assign ratings to Eve Online Alliance Tournament Teams since ATXI.
 
 
+AT game log and initial Elo ratings are located in the data folder, references in the scripts have been changed to match.
+
 
 
 
