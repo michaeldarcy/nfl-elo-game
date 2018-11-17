@@ -1,3 +1,48 @@
+
+I used FiveThirtyEight's elo rating code to assign ratings to Eve Online Alliance Tournament Teams since ATXI.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Can You Beat FiveThirtyEight's NFL Predictions?
 
 This repository contains code and data to accompany [FiveThirtyEight's NFL Forecasting game](https://projects.fivethirtyeight.com/2018-nfl-forecasting-game/). Specifically, it has:
